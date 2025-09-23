@@ -28,7 +28,7 @@ Permite ingresar los nombres de tus amigos, listarlos y sortear aleatoriamente a
 1. Ingresa el nombre de tus amigos en el campo de texto.  
 2. Haz clic en **Añadir** para sumarlos a la lista.  
 3. Una vez agregados todos los nombres, presiona **Sortear amigo**.  
-4. El sistema mostrará quién es tu **Amigo Secreto 🎉**.  
+4. El sistema mostrará quién es tu **Amigo Secreto**.  
 
 ---
 
