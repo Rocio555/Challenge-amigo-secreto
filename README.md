@@ -32,7 +32,7 @@ Permite ingresar los nombres de tus amigos, listarlos y sortear aleatoriamente a
 
 ---
 
-## 🌐 Demo en línea
+## Demo en línea
 El proyecto está publicado con **GitHub Pages** y lo puedes ver aquí:  
 👉 [Amigo Secreto](https://rociomaldonado.github.io/Challenge-amigo-secreto/)
 
