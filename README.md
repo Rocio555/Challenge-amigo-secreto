@@ -39,7 +39,7 @@ El proyecto está publicado con **GitHub Pages** y lo puedes ver aquí:
 ---
 
 ## Vista previa
-![Preview del proyecto](assets/amigo-.png)
+![Preview del proyecto](assets/amigo-secreto.png)
 
 ---
 
